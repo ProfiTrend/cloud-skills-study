@@ -3,7 +3,7 @@
 [Project](https://github.com/Jennas-Lee/cloud-skills-study/projects/1#card-76465253)
 
 ## Linked List
-[Linked List]()
+[Linked List](https://github.com/Jennas-Lee/cloud-skills-study/blob/main/cs/week1/linked_list.py)
 
 ## Stack
 [Stack](https://github.com/Jennas-Lee/cloud-skills-study/blob/main/cs/week1/stack.py)
