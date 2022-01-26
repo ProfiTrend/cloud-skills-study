@@ -2,19 +2,12 @@
 
 [Project](https://github.com/Jennas-Lee/cloud-skills-study/projects/1#card-76465253)
 
-## Linked List
-[Linked List](https://github.com/Jennas-Lee/cloud-skills-study/blob/main/cs/week1/linked_list.py)
+## [Linked List](linked-list)
 
-## Stack
-[Stack](https://github.com/Jennas-Lee/cloud-skills-study/blob/main/cs/week1/stack.py)
+## [Stack](stack)
 
-## Queue
-[Linear Queue](https://github.com/Jennas-Lee/cloud-skills-study/blob/main/cs/week1/linear_queue.py)
+## [Queue](queue)
 
-[Circular Queue](https://github.com/Jennas-Lee/cloud-skills-study/blob/main/cs/week1/circular_queue.py)
+## [Tree](tree)
 
-## Tree
-[Tree]()
-
-## Graph
-[Graph]()
+## [Graph](graph)
