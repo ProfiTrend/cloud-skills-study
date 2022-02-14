@@ -7,3 +7,5 @@
 ### [Week 1](cs/week1)
 
 ### [Week 2](cs/week2)
+
+### [Week 3](cs/week3)
