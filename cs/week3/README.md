@@ -28,6 +28,10 @@
 > 
 > 정확히 넷플릭스 서버로 패킷이 전달될 때 목적지를 어떻게 찾게 되는가?
 
+## [Query Naver.com](QUERY-COM.md)
+
+> naver.com 쿼리 시 항상 .com 네임서버를 호출하는가?
+
 ## [TCP and Linux Network Socket](TCP-AND-LINUX-NETWORK-SOCKET.md)
 
 > TCP 환경에서 데이터 전달 과정
