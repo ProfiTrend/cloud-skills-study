@@ -32,6 +32,10 @@
 
 > naver.com 쿼리 시 항상 .com 네임서버를 호출하는가?
 
+## [DNS vs IP in Linux PC](DNS-VS-IP-IN-LINUX-PC.md)
+
+> Linux PC에서 DNS 결과값보다 우선시하여 특정 도메인에 대한 IP 설정이 가능한가?
+
 ## [TCP and Linux Network Socket](TCP-AND-LINUX-NETWORK-SOCKET.md)
 
 > TCP 환경에서 데이터 전달 과정
