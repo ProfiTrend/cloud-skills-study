@@ -8,7 +8,7 @@ NAT(Network Address Translation) is an address translation service.
 
 It is a technology that translate private IP to public IP using NAT hardware like routers.
 
-![NAT](img/NAT.png)
+![NAT](img/nat.png)
 
 ## Why use NAT?
 
